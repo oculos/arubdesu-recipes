@@ -40,6 +40,8 @@ Set the REGION key to:
             <array>
                 <string>testing</string>
             </array>
+            <key>minimum_os_version</key>
+            <string>10.12</string>
         </dict>
     </dict>
     <key>MinimumVersion</key>
